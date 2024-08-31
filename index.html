@@ -10,6 +10,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="./assets/css/style.css" />
     <script src="./assets/javascript/index.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script defer src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://kit.fontawesome.com/b91a75e672.js" crossorigin="anonymous"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -68,11 +70,33 @@
         <div class="product-image-div">
             <div class="wrapper">
                 <div class="product-image">
-
+                    <div data-aos="slide-up"  class="image-div">
+                        <img src="./assets//images/pic11.png" alt="" id="image1">
+                    </div>
+                    <div class="content">
+                        <span id="ahenfo">Ahenfo</span>
+                        <span id="ahenfo">GHC 200.00</span>
+                    </div>
                 </div>
             </div>
         </div>
    </section>
+    <section class="forth">
+        
+    </section>
+   <script>
+    AOS.init({
     
+        // Global settings:
+        //disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
+        startEvent: 'DOMContentLoaded', // name of the event dispatched on the document, that AOS should initialize on
+        
+        // Settings that can be overridden on per-element basis, by `data-aos-*` attributes:
+        offset: 10, // offset (in px) from the original trigger point
+        once: true, // whether animation should happen only once - while scrolling down
+        //mirror: false, // whether elements should animate out while scrolling past them
+        
+    });
+</script>
 </body>
 </html>
