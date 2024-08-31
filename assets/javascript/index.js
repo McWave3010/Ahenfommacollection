@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded",()=> {
     const whatspp = document.querySelector("#app");
     whatspp.addEventListener("click",()=>{
-        window.location.href = "https://wa.link/z6u1gn";
+        window.location.href = "https://wa.link/2purq5";
     })
     let items = [];
     async function getData(){
@@ -9,7 +9,6 @@ document.addEventListener("DOMContentLoaded",()=> {
         .then(response => response.json())
         .then(data=> {
              items = data;
-             console.log(items);
              display(items);
  
         })

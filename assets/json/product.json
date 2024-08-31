@@ -1,49 +1,49 @@
 [
     {
         "id": 1,
-        "name": "Ahenfo",
+        "name": "Adinkra",
         "image": "./assets/images/pic2s.png",
-        "price": "GHC 150.00"
+        "price": "GHC 350.00"
     },
     {
         "id": 2,
-        "name": "Embark",
+        "name": "Adinkra",
         "image": "./assets/images/pic10.png",
         "price": "GHC 200.00"
     },
     {
         "id": 3,
-        "name": "Kanak",
+        "name": "Adinkra",
         "image": "./assets/images/pic9.png",
         "price": "GHC 250.00"
     },
     {
         "id": 4,
-        "name": "Kelebe",
+        "name": "Adinkra",
         "image": "./assets/images/pic11.png",
-        "price": "GHC 300.00"
+        "price": "GHC 350.00"
     },
     {
         "id": 5,
-        "name": "Kelebe",
+        "name": "Adinkra",
         "image": "./assets/images/pic8.png",
-        "price": "GHC 300.00"
+        "price": "GHC 350.00"
     },
     {
         "id": 6,
-        "name": "Kelebe",
+        "name": "Adinkra",
         "image": "./assets/images/pic7.png",
         "price": "GHC 300.00"
     },
     {
         "id": 7,
-        "name": "Kelebe",
+        "name": "Adinkra ladies",
         "image": "./assets/images/pic6.png",
-        "price": "GHC 300.00"
+        "price": "GHC 350.00"
     },
     {
         "id": 8,
-        "name": "Kelebe",
+        "name": "Adinkra",
         "image": "./assets/images/pic5.png",
         "price": "GHC 300.00"
     }
