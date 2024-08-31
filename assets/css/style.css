@@ -295,4 +295,17 @@ body {
     #image1 {
         height: 100%;
     }
+    .socials {
+        margin-top: 2rem;
+    }
+}
+@media screen and (max-width:850px){
+    .first-section {
+        height: 45vh;
+    }
+}
+@media screen and (max-width:1030px){
+    .first-section {
+        height: 45vh;
+    }
 }
