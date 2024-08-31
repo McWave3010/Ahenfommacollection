@@ -15,7 +15,7 @@ body {
 .first-section {
     width: 100%;
     height: 80vh;
-    background-image: url("/assets/images/cle3.jpg");
+    background-image: url("./assets/images/cle3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-clip: inherit;
