@@ -9,13 +9,13 @@
         "id": 2,
         "name": "Adinkra",
         "image": "./assets/images/pic10.png",
-        "price": "GHC 200.00"
+        "price": "GHC 300.00"
     },
     {
         "id": 3,
         "name": "Adinkra",
         "image": "./assets/images/pic9.png",
-        "price": "GHC 250.00"
+        "price": "GHC 300.00"
     },
     {
         "id": 4,
@@ -82,5 +82,29 @@
         "name":"Adinkra",
         "image":"./assets/images/pic3.png",
         "price":"GHC 400.00"
+    },
+    {
+        "id": 15,
+        "name":"Adinkra",
+        "image":"./assets/images/pic20.png",
+        "price":"GHC 300.00"
+    },
+    {
+        "id": 16,
+        "name":"Adinkra",
+        "image":"./assets/images/pic22.png",
+        "price":"GHC 400.00"
+    },
+    {
+        "id": 17,
+        "name":"Adinkra",
+        "image":"./assets/images/pic23.png",
+        "price":"GHC 250.00"
+    },
+    {
+        "id": 18,
+        "name":"Adinkra",
+        "image":"./assets/images/pic24.png",
+        "price":"GHC 300.00"
     }
 ]
