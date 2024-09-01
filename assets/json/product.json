@@ -76,5 +76,11 @@
         "name":"Adinkra",
         "image":"./assets/images/pic4.png",
         "price":"GHC 300.00"
+    },
+    {
+        "id": 14,
+        "name":"Adinkra",
+        "image":"./assets/images/pic3.png",
+        "price":"GHC 400.00"
     }
 ]
